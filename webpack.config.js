@@ -49,7 +49,7 @@ module.exports = {
     historyApiFallback: true,
     noInfo: true,
     overlay: true,
-    allowedHosts: "all"
+    allowedHosts: ['all']
   },
   performance: {
     hints: false
